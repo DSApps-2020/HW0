@@ -1,0 +1,7 @@
+.cache
+.ipynb_checkpoints
+.local
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
