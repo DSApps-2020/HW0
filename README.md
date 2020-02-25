@@ -1,6 +1,6 @@
 <img src="images/DSApps_logo_small.jpg" align="right" />
 
-# DSApps 2020: Homework 0 - Getting ready with R and Python
+# DSApps 2020: Homework 0 - Getting Ready
 
 ### Welcome to Homework 0!
 
@@ -14,10 +14,10 @@
 	* On your local machine using Docker
 	* On RStudio Cloud
 	* On Binder (Power users only...)
-	See details [here]().
+	* See details [here]().
 4. Run [`hw0_python.ipynb`](hw0_python.ipynb) Jupyter notebook. You can do it:
 	* On your local machine using local Python and Jupyter installation
 	* On your local machine using Docker
 	* On Binder
-	See details [here]().
+	* See details [here]().
 5. You're done. :nail_care:
