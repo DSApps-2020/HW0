@@ -5,3 +5,9 @@
 .Rhistory
 .RData
 .Ruserdata
+.bash_logout
+.bashrc
+.config/
+.ipython/
+.profile
+.python_history
