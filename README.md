@@ -1,6 +1,8 @@
-![DSApps course logo](images/DSApps_logo.jpg)
+<img src="images/DSApps_logo.jpg" align="right" />
 
-Welcome to Homework 0!
+# DSApps 2020: Homework 0 - Getting ready with R and Python
+
+### Welcome to Homework 0!
 
 1. Please open up a Github account. You *could* use this Github later in life for private projects, so:
 	* do register with an email account you're comfortable with
