@@ -1,8 +1,8 @@
 <img src="images/DSApps_logo_small.jpg" align="right" />
 
-# DSApps 2020: Homework 0 - Getting Ready
+# DSApps @ TAU 2020: Assignment 0
 
-### Welcome to Homework 0!
+### Welcome to Assignment 0!
 
 1. Please open up a Github account. You *could* use this Github later in life for private projects, so:
 	* do register with an email account you're comfortable with
@@ -21,3 +21,5 @@
 	* On Binder
 	* See details [here]().
 5. You're done. :nail_care:
+
+Giora Simchoni
