@@ -1,4 +1,4 @@
-numpy=1.18.*
+numpy=1.18.1
 beautifulsoup4=4.8.*'
 h5py=2.10.*
 hdf5=1.10.*
