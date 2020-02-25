@@ -1,4 +1,4 @@
-<img src="images/DSApps_logo.jpg" align="right" />
+<img src="images/DSApps_logo_small.jpg" align="right" />
 
 # DSApps 2020: Homework 0 - Getting ready with R and Python
 
