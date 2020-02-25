@@ -1,3 +1,5 @@
+![DSApps course logo](images/DSApps_logo.jpg)
+
 Welcome to Homework 0!
 
 1. Please open up a Github account. You *could* use this Github later in life for private projects, so:
