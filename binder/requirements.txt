@@ -1,5 +1,5 @@
 numpy==1.18
-beautifulsoup4==4.8'
+beautifulsoup4==4.8
 h5py==2.10
 hdf5==1.10
 ipywidgets==7.5
