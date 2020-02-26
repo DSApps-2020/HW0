@@ -10,16 +10,15 @@
 	* do remember the password
 2. Please fill up [this](https://docs.google.com/forms/d/e/1FAIpQLSeEnqho4eU-YtkGTFTBDhxwMetrNNRZhh7gALH8dajSZKUIkA/closedform) survey. It is not anonymized. It is meant mainly for me to be able to connect your Github account, email and Uni. ID.
 3. Run [`hw0_r.Rmd`](hw0_r.Rmd) R Markdown document. You can do it:
-	* On your local machine using local R and RStudio installation
+	* On your local machine using local R and RStudio installation, once you've cloned the repo locally
 	* On your local machine using Docker
-	* On RStudio Cloud
-	* On Binder (Power users only...)
-	* See details [here]().
+	* On [RStudio Cloud](https://rstudio.cloud/spaces/53391/project/979569)
+	* See details on running R assignments in Playground mode [here](https://github.com/DSApps-2020/Class_Slides/blob/master/Apps_of_DS_HW.pdf).
 4. Run [`hw0_python.ipynb`](hw0_python.ipynb) Jupyter notebook. You can do it:
-	* On your local machine using local Python and Jupyter installation
+	* On your local machine using local Python and Jupyter installation, once you've cloned the repo locally
 	* On your local machine using Docker
-	* On Binder
-	* See details [here]().
+	* On [Binder](https://mybinder.org/v2/gh/DSApps-2020/HW0/master?filepath=hw0_python.ipynb)
+	* See details on running Python assignments in Playground mode [here](https://github.com/DSApps-2020/Class_Slides/blob/master/Apps_of_DS_HW.pdf).
 5. You're done. :nail_care:
 
 ###### Giora Simchoni
