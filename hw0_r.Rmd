@@ -1,5 +1,5 @@
 ---
-title: 'DS Apps 2020 @ TAU: HW0'
+title: 'DSApps 2020 @ TAU: Assignment 0'
 author: "Giora Simchoni"
 date: "`r Sys.Date()`"
 output: 
@@ -11,7 +11,7 @@ subtitle: Getting ready with R
 
 ### Welcome
 
-Welcome to Homework 0 in R!
+Welcome to Assignment 0 in R!
 
 Good news: you don't have to do anything.
 
