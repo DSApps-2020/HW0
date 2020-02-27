@@ -1,0 +1,8 @@
+<!-- Little JS code for the course logo: -->
+<script>
+  $(document).ready(function() {
+    $head = $('#header');
+    $head.prepend('<div class="knitr source"><img src="images/DSApps_logo_small.jpg" align="right"></div>')
+  });
+</script>
+<!-- End -->

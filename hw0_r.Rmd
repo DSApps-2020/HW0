@@ -9,6 +9,9 @@ output:
 subtitle: Getting ready with R
 ---
 
+```{r child = "setup.Rmd"}
+```
+
 ### Welcome
 
 Welcome to Assignment 0 in R!
